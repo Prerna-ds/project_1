@@ -1,3 +1,3 @@
-6# project_1
-This is my first repository
-prerna tiwari
+ project_1
+ THIS PROJECT IS BASED ON DETECTING THE FRAUD COMMITTED DURING CREDIT CARD PAYMENTS 
+ 
